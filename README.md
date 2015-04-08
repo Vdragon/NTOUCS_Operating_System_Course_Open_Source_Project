@@ -1,4 +1,4 @@
-# 國立台灣海洋大學資訊工程學系作業系統課程<br />NTOUCS Operating System Course Open Source Project
+# 國立台灣海洋大學資訊工程學系作業系統課程開放來源碼計劃<br />NTOUCS Operating System Course Open Source Project
 <https://github.com/Vdragon/NTOUCS_Operating_System_Course_Open_Source_Project>
 
 ## 本專案的智慧財產授權條款<br />Intellectual property license of this project
